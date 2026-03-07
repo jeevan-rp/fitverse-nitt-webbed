@@ -206,9 +206,6 @@ npm run build
 - Verify EmailJS credentials
 - Check template IDs match code
 - Verify Gmail in EmailJS
-- See [Troubleshooting](SETUP_GUIDE.md#-troubleshooting)
-
-For more help, see [COMPLETE_CHECKLIST.md](COMPLETE_CHECKLIST.md#-troubleshooting)
 
 ## 📊 Statistics
 
