@@ -259,7 +259,7 @@ Made with ❤️ for fitness enthusiasts everywhere.
 - EmailJS 3 - Email service
 - React Router 7 - Navigation
 
----
+----
 
 **Version**: 1.0.0  
 **Last Updated**: March 7, 2026  
