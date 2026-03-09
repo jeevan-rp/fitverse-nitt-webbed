@@ -64,22 +64,11 @@ npm run dev
 5. **Open in browser:**
 Visit `http://localhost:5174`
 
-## 📚 Documentation
-
-### Setup & Configuration
-- **[COMPLETE_CHECKLIST.md](COMPLETE_CHECKLIST.md)** - Step-by-step setup checklist
-- **[SETUP_GUIDE.md](SETUP_GUIDE.md)** - Detailed Firebase & EmailJS setup
-- **[.env.example](.env.example)** - Environment variables template
-
-### Development
-- **[LANDING_PAGE_README.md](LANDING_PAGE_README.md)** - Landing page documentation
-- **[INTEGRATION_GUIDE.md](INTEGRATION_GUIDE.md)** - How to use features in your code
-- **[IMPLEMENTATION_SUMMARY.md](IMPLEMENTATION_SUMMARY.md)** - What was implemented
 
 ## 🎮 Usage
 
 ### For Users
-1. Visit landing page at `http://localhost:5174`
+1. Visit landing page at https://fitverse-nitt.vercel.app/
 2. Sign up with email and password
 3. Log in to dashboard
 4. Add workouts and track your progress
@@ -87,7 +76,6 @@ Visit `http://localhost:5174`
 6. Receive email reminders
 
 ### For Developers
-See [INTEGRATION_GUIDE.md](INTEGRATION_GUIDE.md) for examples of:
 - Sending emails
 - Handling authentication
 - Managing user state
@@ -124,9 +112,6 @@ fitverse/
 ├── .env.example                     # Environment template
 ├── vite.config.js                   # Vite configuration
 ├── package.json                     # Dependencies
-├── SETUP_GUIDE.md                   # Firebase setup
-├── INTEGRATION_GUIDE.md             # Code integration
-├── COMPLETE_CHECKLIST.md            # Setup checklist
 └── README.md                        # This file
 ```
 
@@ -187,9 +172,6 @@ This project is open source under the MIT License.
 4. [Firebase Docs](https://firebase.google.com/docs)
 5. [EmailJS Docs](https://www.emailjs.com/docs)
 
-## 🎉 Credits
-
-Made with ❤️ for fitness enthusiasts everywhere.
 
 **Built with:**
 - React 19 - UI framework
