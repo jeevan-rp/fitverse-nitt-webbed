@@ -2,6 +2,8 @@
 
 A modern, feature-rich fitness tracking application built with **React**, **Vite**, **Firebase**, and **EmailJS**. Track your workouts, earn points, compete on leaderboards, and receive workout reminders via email.
 
+🌐 **Live Website:** https://fitverse-nitt.vercel.app/
+
 ## ✨ Features
 
 ### 🎯 Core Features
@@ -171,66 +173,6 @@ npm run lint
 - **Desktop**: 1024px+ (full layout)
 - **Tablet**: 768px-1024px (adjusted spacing)
 - **Mobile**: <768px (single column, hamburger menu)
-
-## 🚀 Deployment
-
-### Build for Production
-```bash
-npm run build
-```
-
-### Deploy To:
-- **Vercel**: Connect GitHub repo, auto-deploys
-- **Netlify**: Drop `dist` folder, or connect GitHub
-- **Firebase Hosting**: Run `firebase deploy`
-- **GitHub Pages**: Push to GitHub, enable Pages
-
-**Don't forget to:**
-1. Update Firebase authorized domains
-2. Add environment variables to hosting platform
-3. Set up custom domain (optional)
-
-## 🐛 Troubleshooting
-
-### Landing page not showing?
-- Clear browser cache (Ctrl+Shift+Delete)
-- Restart dev server (Ctrl+C, then `npm run dev`)
-- Check console for errors (F12)
-
-### Auth not working?
-- Verify Firebase credentials in `.env`
-- Check Email/Password enabled in Firebase Console
-- Restart dev server after `.env` changes
-
-### Emails not sending?
-- Verify EmailJS credentials
-- Check template IDs match code
-- Verify Gmail in EmailJS
-
-## 📊 Statistics
-
-- **50K+** Athletes using FitVerse
-- **2M+** Workouts logged
-- **98%** Satisfaction rate
-- **7-30** Days average streak
-
-## 🎯 Roadmap
-
-- [ ] User profiles
-- [ ] Friends system
-- [ ] Social challenges
-- [ ] Mobile app
-- [ ] Advanced analytics
-- [ ] Video tutorials
-- [ ] AI workout recommendations
-
-## 🤝 Contributing
-
-Contributions are welcome! Please:
-1. Fork the repo
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
 
 ## 📄 License
 
